@@ -1,0 +1,27 @@
+{
+  "name": "require-uncache",
+  "version": "0.0.0",
+  "description": "Remove all cached files associated with the module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Steida/require-uncache.git"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "require",
+    "uncache"
+  ],
+  "author": "Daniel Steigerwald",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "19c957ffa571cfef053c03167e6e6595c788d004",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-release": "~0.3.3"
+  }
+}
